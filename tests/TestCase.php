@@ -20,3 +20,4 @@ abstract class TestCase extends Orchestra
         $app['config']->set('api-specs.middleware', ['web']);
     }
 }
+

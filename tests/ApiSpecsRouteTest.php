@@ -22,3 +22,4 @@ class ApiSpecsRouteTest extends TestCase
         $response->assertSee('Acme Custom API');
     }
 }
+
